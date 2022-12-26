@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
+ * 发布者
  * @author yueyubo
  * @create 2022-10-28 0:19
  */

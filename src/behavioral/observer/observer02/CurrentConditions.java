@@ -1,6 +1,7 @@
 package behavioral.observer.observer02;
 
 /**
+ * 订阅者
  * @author yueyubo
  * @create 2022-10-28 0:14
  */
