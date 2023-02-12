@@ -14,7 +14,7 @@ public class ShoppingCartTest {
         cart.addItem(item1);
         cart.addItem(item2);
 
-        //pay by paypal
+        //pay by PayPal
         cart.pay(new PaypalStrategy("myemail@example.com", "mypwd"));
 
         //pay by credit card
